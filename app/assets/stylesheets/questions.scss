@@ -1,0 +1,21 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1, p {
+  color: #777b82;
+  text-align: center;
+}
+
+p a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid grey;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #bec1c6;
+}
+
+form {
+  text-align: center;
+}
